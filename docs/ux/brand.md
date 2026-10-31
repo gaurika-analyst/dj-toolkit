@@ -41,7 +41,9 @@ the clear space below is yours to add.
 
 Inter is under the SIL Open Font License 1.1 (Copyright (c) 2016 The Inter Project Authors,
 <https://github.com/rsms/inter>), which allows using its letters in artwork like this. The outlines were drawn from
-Inter 4.1, and no font file is in this repository.
+Inter 4.1, and no font file is in this repository. To redraw them, use `Inter-4.1.zip` from the
+[Inter releases](https://github.com/rsms/inter/releases/tag/v4.1) (`extras/ttf/Inter-Bold.ttf`). The project publishes
+no checksum for it, so for the record: SHA-256 `9883fdd4a49d4fb66bd8177ba6625ef9a64aa45899767dde3d36aa425756b11e`.
 
 ## Minimum size
 
